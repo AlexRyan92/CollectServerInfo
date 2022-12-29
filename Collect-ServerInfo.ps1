@@ -17,7 +17,7 @@ See more detailed progress as the script is running.
 Collect information about a single server.
 
 .EXAMPLE
-"SERVER1","SERVER2","SERVER3" | .\Collect-ServerInfo.ps1
+"SERVER1","SERVER2","SERVER3, "SERVER4" | .\Collect-ServerInfo.ps1
 Collect information about multiple servers.
 
 .EXAMPLE
